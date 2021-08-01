@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Hi there hasdfasdfi here
+          Learn React Hi test here
         </a>
       </header>
     </div>
